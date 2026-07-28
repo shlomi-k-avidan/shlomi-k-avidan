@@ -15,7 +15,7 @@ Currently: independent security research on a D-Link DSL-224 xDSL gateway — UA
 - **[BGU remittance automator](https://github.com/shlomi-k-avidan/bgu-remittance-automator)** — Multi-stage Python pipeline written by hand in 2022 that replaced a full-time manual data-processing role: cleaning and validating messy monthly financial spreadsheets, resolving donor IDs, driving records into a Salesforce CRM. Backed by a formal recommendation letter from the division CFO.
 - **[Arduino Nano SDI-12 → USB bridge](https://github.com/shlomi-k-avidan/Arduino-Nano-SDI-12-to-USB-Bridge-for-HydraProbe)** — Interface between an Arduino Nano (ATmega328P) and a Stevens HydraProbe soil sensor over the SDI-12 protocol, with a clean parser and full documentation.
 
-**Achievements:** 1st place (solo, out of 69 teams) — Iron Codes CTF, Tel Aviv University CyberWeek 2024 · HackTheBox: [`s4ma3l`](https://profile.hackthebox.com/profile/019e3cb8-674c-7298-be1f-58a22dfe8035), top 1,000 globally (2026)
+**Achievements:** 1st place (solo, out of 69 teams) — Iron Codes CTF, Tel Aviv University CyberWeek 2024 · HackTheBox rank #1,026 globally (July 2026) [`s4ma3l`](https://profile.hackthebox.com/profile/019e3cb8-674c-7298-be1f-58a22dfe8035)
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/shlomi-k-avidan/) · shlomika99@gmail.com
 
