@@ -19,6 +19,6 @@ Currently: independent security research on a D-Link DSL-224 xDSL gateway — UA
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/shlomi-k-avidan/) · shlomika99@gmail.com
 
-**Legacy Projects:** [BGU scanned-exam downloader](https://github.com/shlomika1337/...) — student-era 
+**Legacy Projects:** [BGU scanned-exam downloader](https://github.com/shlomi-k-avidan/BGU-Exam-Downloader) — student-era 
 tool that retrieved your own scanned exams before official publication by reconstructing the 
 download token (release gate existed only in the UI; since fixed by the university).
