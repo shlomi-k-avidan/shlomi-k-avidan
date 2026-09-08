@@ -17,7 +17,7 @@ Currently: independent security research on a D-Link DSL-224 xDSL gateway — UA
 
 **Achievements:** 1st place (solo, out of 69 teams) — Iron Codes CTF, Tel Aviv University CyberWeek 2024 · HackTheBox rank #1,026 globally (July 2026) [`s4ma3l`](https://profile.hackthebox.com/profile/019e3cb8-674c-7298-be1f-58a22dfe8035)
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/shlomi-k-avidan/) · shlomika99@gmail.com
+**Contact:** [LinkedIn](https://www.linkedin.com/in/shlomi-k-avidan/)
 
 **Legacy Projects:** [BGU scanned-exam downloader](https://github.com/shlomi-k-avidan/BGU-Exam-Downloader) — student-era 
 tool that retrieved your own scanned exams before official publication by reconstructing the 
